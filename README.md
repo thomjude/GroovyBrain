@@ -3,7 +3,7 @@ Coding project which uses a variational auto-encoder (VAE) to create a video of 
 
 It achieves this by using a VAE to generate images of brains using audio information as latent features, and stitches these together into a video.
 
-(See the example_video.MP4 for an example)
+(See the video_example.MP4 for an example)
 
 Steps: 
 1) First download the training set of brain images (augmented-alzheimer-mri-dataset-v2) from Kaggle. (https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
